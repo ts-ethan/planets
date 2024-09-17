@@ -1,3 +1,7 @@
 *.csv
 results/
 log_*
+.Rproj.user
+.Rhistory
+.Rdata
+*.Rproj
