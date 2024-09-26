@@ -5,3 +5,4 @@ log_*
 .Rhistory
 .Rdata
 *.Rproj
+graphs/
